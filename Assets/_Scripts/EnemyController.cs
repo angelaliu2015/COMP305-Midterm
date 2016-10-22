@@ -63,8 +63,6 @@ public class EnemyController : MonoBehaviour
         }
     }
 
-
-
     // resets the gameObject
     private void _Reset()
     {

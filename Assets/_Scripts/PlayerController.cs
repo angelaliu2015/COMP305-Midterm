@@ -1,6 +1,6 @@
 ﻿///-----------------------------------------------------------------
 ///   Namespace:      COMP305-F2016-Midterm
-///   Class:          PlayController
+///   Class:          PlayerController
 ///   Description:    This controls the player behavior 
 ///   Author:         Angela Liu                    Date: October 22,2016
 ///   Notes:          Player controller
